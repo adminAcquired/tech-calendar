@@ -1,10 +1,10 @@
 earnings:
   calendar:
     ics_path: "calendar.ics"
-    relcalid: "tech.calendar.earnings"
-    name: "Tech Earnings Calendar"
-    description: "Earnings dates for selected tickers."
+    relcalid: "amp.calendar.earnings"
+    name: "AMP Earnings Calendar"
+    description: "Large-cap earnings dates (top ~190 by market cap), auto-updated from Finnhub."
     retention_years: 2
-  tickers: ["META", "NVDA", "MSFT", "AAPL", "AMZN", "GOOGL", "NFLX"]
-  days_ahead: 20
-  days_past: 10
+  tickers: ["NVDA", "AAPL", "GOOGL", "GOOG", "MSFT", "AMZN", "AVGO", "META", "TSLA", "MU", "BRK.B", "LLY", "JPM", "WMT", "AMD", "XOM", "V", "JNJ", "INTC", "MA", "ABBV", "ORCL", "BAC", "CSCO", "CVX", "COST", "PLTR", "KO", "LRCX", "CAT", "AMAT", "MRK", "UNH", "GE", "MS", "PG", "DELL", "NFLX", "GS", "HD", "PM", "PANW", "WFC", "RTX", "SNDK", "GEV", "ANET", "TXN", "C", "KLAC", "TMO", "IBM", "AXP", "CRWD", "LIN", "VZ", "AMGN", "CRM", "MRVL", "APH", "STX", "TMUS", "QCOM", "PEP", "SCHW", "DE", "DIS", "GILD", "MCD", "ABT", "T", "ADI", "BLK", "NEE", "WELL", "UNP", "WDC", "COP", "BA", "ETN", "PFE", "BX", "UBER", "DHR", "GLW", "TJX", "NOW", "NEM", "BKNG", "CB", "VRTX", "PLD", "BMY", "ISRG", "COF", "PGR", "LMT", "CVS", "SPGI", "PH", "MDT", "FTNT", "MO", "SBUX", "VLO", "BNY", "MPC", "LOW", "ACN", "ADP", "APP", "SYK", "PSX", "MCK", "FCX", "HOOD", "CEG", "EQIX", "SO", "ADBE", "ABNB", "CME", "USB", "PNC", "TT", "GD", "VRT", "DUK", "PWR", "HCA", "HWM", "CSX", "KKR", "ELV", "CMCSA", "WMB", "ICE", "DASH", "JCI", "MAR", "WM", "UPS", "MRSH", "MNST", "MMM", "LITE", "INTU", "SLB", "EMR", "MCO", "AMT", "MDLZ", "DDOG", "CTAS", "REGN", "CDNS", "CVNA", "SPG", "EOG", "MSI", "TRV", "SHW", "ECL", "SNPS", "CMI", "GM", "ITW", "APO", "CI", "FDX", "NOC", "HPE", "NSC", "ROST", "WBD", "TGT", "CL", "DLR", "RCL", "ORLY", "KMI", "HLT", "RSG", "AEP", "APD", "AON", "PCAR", "HON", "ALL", "TRGP", "BSX", "AJG", "TDG", "URI", "MET", "TFC", "COR", "OXY", "OKE"]
+  days_ahead: 90
+  days_past: 5
