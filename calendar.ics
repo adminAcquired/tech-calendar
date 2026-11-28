@@ -1,0 +1,895 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:AMP Earnings Calendar
+X-WR-RELCALID:amp.calendar.earnings
+X-WR-CALDESC:Full S&P 500 earnings dates, auto-updated from Finnhub.
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: MDT\nFiscal Qtr: 3\nEstimate EPS: 1.4385\nEst. Revenue: 9.62 B\nSource: Finnhub
+SUMMARY:MDT Q3 Earnings
+UID:v1-ed8702f7eefc152192e6136b0522cedd49d4be0e20c4c076b1af0dda4bd477ff@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: EME\nFiscal Qtr: 4\nEstimate EPS: 9.5766\nEst. Revenue: 5.63 B\nSource: Finnhub
+SUMMARY:EME Q4 Earnings
+UID:v1-b09a2bc41f19cc418cc9fb04968a9f0592e88022de482fa53628c3a7d0ced93f@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: TAP\nFiscal Qtr: 4\nEstimate EPS: 0.8046\nEst. Revenue: 2.63 B\nSource: Finnhub
+SUMMARY:TAP Q4 Earnings
+UID:v1-5d616b7d4197f789be21cea474b88664607b6d9ee28e6481f676e5b7d997c2da@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270218
+DESCRIPTION:Ticker: PPL\nFiscal Qtr: 4\nEstimate EPS: 0.4617\nEst. Revenue: 2.50 B\nSource: Finnhub
+SUMMARY:PPL Q4 Earnings
+UID:v1-6b7e08bce777a98632fb73514c4a076909d8428d0ab2689235050384befda99a@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: VMC\nFiscal Qtr: 4\nEstimate EPS: 2.1212\nEst. Revenue: 1.97 B\nSource: Finnhub
+SUMMARY:VMC Q4 Earnings
+UID:v1-52fdc5c973149dbd888c197761c4c8bedfe03aa1d6df670a0cd343f11de10b5d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: TJX\nFiscal Qtr: 4\nEstimate EPS: 1.4817\nEst. Revenue: 18.62 B\nSource: Finnhub
+SUMMARY:TJX Q4 Earnings
+UID:v1-65b903da93c090ab2983c3b541a54eb4e33ff334f77ee3c3ad8bba01f9ce445f@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: TRGP\nFiscal Qtr: 4\nEstimate EPS: 2.9966\nEst. Revenue: 5.43 B\nSource: Finnhub
+SUMMARY:TRGP Q4 Earnings
+UID:v1-db5b5036f8617222740a7ec90feb941af4e2fdee7c3dff376cd3e6e65a865164@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: CRM\nFiscal Qtr: 4\nEstimate EPS: 3.58\nEst. Revenue: 12.47 B\nSource: Finnhub
+SUMMARY:CRM Q4 Earnings
+UID:v1-be939904f5db469806937957cdfc95e889ffec991cfefbe4c61d29cd114b6204@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: PANW\nFiscal Qtr: 2\nEstimate EPS: 1.0415\nEst. Revenue: 3.61 B\nSource: Finnhub
+SUMMARY:PANW Q2 Earnings
+UID:v1-604ca27a703d625a6332bd678b3f85484ceec53dd09eeec4d21799d89e95f06d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: DTE\nFiscal Qtr: 4\nEstimate EPS: 2.249\nEst. Revenue: 4.24 B\nSource: Finnhub
+SUMMARY:DTE Q4 Earnings
+UID:v1-98aabff0149cf0f020d28e1cf74781a9c86e06cebb3fcc3b309ee2f379d31fe8@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: IR\nFiscal Qtr: 4\nEstimate EPS: 1.0424\nEst. Revenue: 2.24 B\nSource: Finnhub
+SUMMARY:IR Q4 Earnings
+UID:v1-90fac97ff92f6030d83165faafd69ce420ec2b561c596ed3a98583be541d0f0d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: SW\nFiscal Qtr: 4\nEstimate EPS: 0.6425\nEst. Revenue: 8.34 B\nSource: Finnhub
+SUMMARY:SW Q4 Earnings
+UID:v1-36aa431596283520c925ac76b7ec381b4e036396c5104102f2e8cd2127d2ed84@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: BAX\nFiscal Qtr: 4\nEstimate EPS: 0.6032\nEst. Revenue: 3.12 B\nSource: Finnhub
+SUMMARY:BAX Q4 Earnings
+UID:v1-0d667b2212b1cd5b230625f59079b9265a2e85e580e47773a70a63327f5df1e3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: EOG\nFiscal Qtr: 4\nEstimate EPS: 5.5793\nEst. Revenue: 8.56 B\nSource: Finnhub
+SUMMARY:EOG Q4 Earnings
+UID:v1-74a706ff8e8eeb345ddf1d964c64e09b63661da99a4a38f27ffeb774b0d08cc0@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: NVDA\nFiscal Qtr: 4\nEstimate EPS: 2.9375\nEst. Revenue: 133.31 B\nSource: Finnhub
+SUMMARY:NVDA Q4 Earnings
+UID:v1-ec4741858f8bec1f8e5e32a8c3543c5c06ec141f4c9e29c049d2055b036d6c27@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: VRTX\nFiscal Qtr: 4\nEstimate EPS: 4.1856\nEst. Revenue: 3.56 B\nSource: Finnhub
+SUMMARY:VRTX Q4 Earnings
+UID:v1-3f35253c13aab840fe43a91bf425563754d6c48dabeca7006141e541d5d2ea3d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: ES\nFiscal Qtr: 4\nEstimate EPS: 1.2388\nEst. Revenue: 3.73 B\nSource: Finnhub
+SUMMARY:ES Q4 Earnings
+UID:v1-34644349f6a65f0e127572c35e899329ab39a217dbd8eeb5edc178780bd60154@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: WST\nFiscal Qtr: 4\nEstimate EPS: 2.3069\nEst. Revenue: 833.4 M\nSource: Finnhub
+SUMMARY:WST Q4 Earnings
+UID:v1-632b13a8022325b647acbc50500724345cb82c1e25a935b668cad3b99734780e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: HST\nFiscal Qtr: 4\nEstimate EPS: 0.2407\nEst. Revenue: 1.57 B\nSource: Finnhub
+SUMMARY:HST Q4 Earnings
+UID:v1-b07caca09ee11102766b4b2d0b7161ee3b72a5d81e480627713b0588d4c5dea8@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: AEP\nFiscal Qtr: 4\nEstimate EPS: 1.3268\nEst. Revenue: 5.34 B\nSource: Finnhub
+SUMMARY:AEP Q4 Earnings
+UID:v1-e9b1063a6893a9cd449f166432024a7c58b57a51cf6a2be4422eea5defd62190@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: AXON\nFiscal Qtr: 4\nEstimate EPS: 1.9944\nEst. Revenue: 1.03 B\nSource: Finnhub
+SUMMARY:AXON Q4 Earnings
+UID:v1-59bad9cd2bc066ccba5632b84e4db3e23916de1ebe82f0f18c5b6251c2cfc776@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: ABNB\nFiscal Qtr: 4\nEstimate EPS: 0.8256\nEst. Revenue: 3.33 B\nSource: Finnhub
+SUMMARY:ABNB Q4 Earnings
+UID:v1-3fd15cad8f4ff8dc880dccc0d36910147f32102f73b87df865f1800111cbf26d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: KEYS\nFiscal Qtr: 1\nEstimate EPS: 3.6635\nEst. Revenue: 2.06 B\nSource: Finnhub
+SUMMARY:KEYS Q1 Earnings
+UID:v1-1518ef345b976b36bf5f591185c4ee067229993590f62b81c46342287001395e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: EXPE\nFiscal Qtr: 4\nEstimate EPS: 4.4004\nEst. Revenue: 3.80 B\nSource: Finnhub
+SUMMARY:EXPE Q4 Earnings
+UID:v1-95de6ab96d34d22281abb5bd0313a007635020cecb153d0d95954291c5023a04@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: EXE\nFiscal Qtr: 4\nEstimate EPS: 2.0204\nEst. Revenue: 2.93 B\nSource: Finnhub
+SUMMARY:EXE Q4 Earnings
+UID:v1-1817356288901af789dac08d327a10bf49ac1c1653155240e495c6e1cc1020ba@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: EIX\nFiscal Qtr: 4\nEstimate EPS: 1.3601\nEst. Revenue: 4.88 B\nSource: Finnhub
+SUMMARY:EIX Q4 Earnings
+UID:v1-9b36c55e1d56b4a528bd66b9dd1f8f8b9acd5d5c10bf5f9e1501bc1d525669e2@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: OMC\nFiscal Qtr: 4\nEstimate EPS: 3.126\nEst. Revenue: 6.90 B\nSource: Finnhub
+SUMMARY:OMC Q4 Earnings
+UID:v1-259d56bdcbd9fbd3360fd9a4b1850beb617622e0739f5f97c218a3590f0ac435@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: FIX\nFiscal Qtr: 4\nEstimate EPS: 14.1506\nEst. Revenue: 3.86 B\nSource: Finnhub
+SUMMARY:FIX Q4 Earnings
+UID:v1-d353407aa33312082f6603e8c37a7cd84e35034b9e116a7c08d35f854058e1de@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270211
+DESCRIPTION:Ticker: FRT\nFiscal Qtr: 4\nEstimate EPS: 0.7693\nEst. Revenue: 356.3 M\nSource: Finnhub
+SUMMARY:FRT Q4 Earnings
+UID:v1-dd5d9989ba587f2cd0b09b0d19fbda308dbe383cdb9c73869890b1e0ba247c29@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: CEG\nFiscal Qtr: 4\nEstimate EPS: 2.7303\nEst. Revenue: 8.72 B\nSource: Finnhub
+SUMMARY:CEG Q4 Earnings
+UID:v1-6eb091d675e521865bdc1dfdfabba97ede6c97ccd3eeebfe415764d60d1890dc@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: FANG\nFiscal Qtr: 4\nEstimate EPS: 6.6713\nEst. Revenue: 5.24 B\nSource: Finnhub
+SUMMARY:FANG Q4 Earnings
+UID:v1-e582e22856982a3e4310d3143c39a240fe0a992d8dc22f0636195440f828f450@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: A\nFiscal Qtr: 1\nEstimate EPS: 1.5264\nEst. Revenue: 1.96 B\nSource: Finnhub
+SUMMARY:A Q1 Earnings
+UID:v1-b1f05182caedb74e50c61c2d0d44c4329259d606f37f80dd561a0cb417bd924d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: SRE\nFiscal Qtr: 4\nEstimate EPS: 1.1835\nEst. Revenue: 3.88 B\nSource: Finnhub
+SUMMARY:SRE Q4 Earnings
+UID:v1-986b44d0d86c6478728f3113649494ea33b62a0b564e3e4c16f9682fe82e41f1@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: VRT\nFiscal Qtr: 4\nEstimate EPS: 2.2949\nEst. Revenue: 4.49 B\nSource: Finnhub
+SUMMARY:VRT Q4 Earnings
+UID:v1-9b1ff55a623e87b4c84f07eb7c9daeb8e53f0fe5ea9c779c9b42126fbe7242b9@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: FE\nFiscal Qtr: 4\nEstimate EPS: 0.6079\nEst. Revenue: 4.26 B\nSource: Finnhub
+SUMMARY:FE Q4 Earnings
+UID:v1-401170b51581c077e2e1a3bd3b73ee0a0bcca146b0239f3ab1311846e6d8b2ca@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: CPRT\nFiscal Qtr: 2\nEstimate EPS: 0.38\nEst. Revenue: 1.26 B\nSource: Finnhub
+SUMMARY:CPRT Q2 Earnings
+UID:v1-3a4e80d197bd9985e6679dd2a0b346e458ab19f292f6d48f5e0579b0e81cc215@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: DASH\nFiscal Qtr: 4\nEstimate EPS: 0.8842\nEst. Revenue: 4.94 B\nSource: Finnhub
+SUMMARY:DASH Q4 Earnings
+UID:v1-48eb8b347c3cf4cbab59af27222679059529b0a10bdf5b14ede3b201661be1fa@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: LNT\nFiscal Qtr: 4\nEstimate EPS: 0.4527\nEst. Revenue: 1.01 B\nSource: Finnhub
+SUMMARY:LNT Q4 Earnings
+UID:v1-9b369c5fdf1107ebeb43fd3fca37f07f04670fc111869b43430fac602dc9e431@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: FIS\nFiscal Qtr: 4\nEstimate EPS: 1.4423\nEst. Revenue: 3.39 B\nSource: Finnhub
+SUMMARY:FIS Q4 Earnings
+UID:v1-3472a0de67c86690be5c7a7a9d7a4b06086fa6df3f9beff6e321874d58c712ce@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: AES\nFiscal Qtr: 4\nEstimate EPS: 0.5939\nEst. Revenue: 3.20 B\nSource: Finnhub
+SUMMARY:AES Q4 Earnings
+UID:v1-13bd4421f8fabf32ca3378fefba66631cc42b50560caa0b212cb6f5bebca800e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: CBRE\nFiscal Qtr: 4\nEstimate EPS: 2.6755\nEst. Revenue: 13.27 B\nSource: Finnhub
+SUMMARY:CBRE Q4 Earnings
+UID:v1-823116f993d5c5f6045a275ce98c16c5fef715104697b07baf5505a737d78c29@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: NRG\nFiscal Qtr: 4\nEstimate EPS: 1.9687\nEst. Revenue: 8.30 B\nSource: Finnhub
+SUMMARY:NRG Q4 Earnings
+UID:v1-2b9a7b10436b66e85e9d0eaa04a82759ad2fe0790b86918490cc2b3f795a6e9f@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: HSIC\nFiscal Qtr: 4\nEstimate EPS: 1.4318\nEst. Revenue: 3.62 B\nSource: Finnhub
+SUMMARY:HSIC Q4 Earnings
+UID:v1-6d5db85e96c8a006377c8cd6d6ed781823465759eaccae01a17f9bfb40adffd2@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270218
+DESCRIPTION:Ticker: WMT\nFiscal Qtr: 4\nEstimate EPS: 0.7886\nEst. Revenue: 202.26 B\nSource: Finnhub
+SUMMARY:WMT Q4 Earnings
+UID:v1-a12d227ba6329d50dd9a979990bea782bce5339bfaff5ff6b516172664692a96@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: VTRS\nFiscal Qtr: 4\nEstimate EPS: 0.6216\nEst. Revenue: 3.84 B\nSource: Finnhub
+SUMMARY:VTRS Q4 Earnings
+UID:v1-8fc837a874bd5bb6f6f8ff1a5d4de4a82cb13c1eb6df92026b81df82a6aeb438@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: PSA\nFiscal Qtr: 4\nEstimate EPS: 2.121\nEst. Revenue: 1.41 B\nSource: Finnhub
+SUMMARY:PSA Q4 Earnings
+UID:v1-8a665ed38250e222efd30aa1de4be16f441e790cc7993f16514f2f76e2b4e724@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270211
+DESCRIPTION:Ticker: MRNA\nFiscal Qtr: 4\nEstimate EPS: -2.3297\nEst. Revenue: 565.9 M\nSource: Finnhub
+SUMMARY:MRNA Q4 Earnings
+UID:v1-e7a53ae479de7d3ee8eea6c798c905d79ad7848f7f15052ea7f3d663a2522f41@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: APA\nFiscal Qtr: 4\nEstimate EPS: 2.0416\nEst. Revenue: 2.65 B\nSource: Finnhub
+SUMMARY:APA Q4 Earnings
+UID:v1-873513fc601971dccbf036c8960731daf3adc53c7c197c1909c4805789668366@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: FSLR\nFiscal Qtr: 4\nEstimate EPS: 5.2245\nEst. Revenue: 1.47 B\nSource: Finnhub
+SUMMARY:FSLR Q4 Earnings
+UID:v1-3688922629a8cf843fc8d4d3c46fad36e32abab46e75c30ee596a5c1648fe0f6@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: MCO\nFiscal Qtr: 4\nEstimate EPS: 3.6179\nEst. Revenue: 1.95 B\nSource: Finnhub
+SUMMARY:MCO Q4 Earnings
+UID:v1-c4c24fa62d361ccf2f7ea90442ba99508a7b7cfa76872dd3cb5fe443d2f789ec@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: APP\nFiscal Qtr: 4\nEstimate EPS: 4.7208\nEst. Revenue: 2.40 B\nSource: Finnhub
+SUMMARY:APP Q4 Earnings
+UID:v1-e15d1cc153268c9157f9071ea493f7af68ef672a8be1d168fc8666672ff07ef0@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: DDOG\nFiscal Qtr: 4\nEstimate EPS: 0.7226\nEst. Revenue: 1.22 B\nSource: Finnhub
+SUMMARY:DDOG Q4 Earnings
+UID:v1-096bbcd1b587bffe75354bedf1cc2b515ff1a7789414a95a3b01d19cc5448043@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: ZTS\nFiscal Qtr: 4\nEstimate EPS: 1.2097\nEst. Revenue: 2.20 B\nSource: Finnhub
+SUMMARY:ZTS Q4 Earnings
+UID:v1-0c09709eb6dc50ece130a455b03a620d4b14a714e210cdac921f035c6633c545@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: O\nFiscal Qtr: 4\nEstimate EPS: 0.4399\nEst. Revenue: 1.60 B\nSource: Finnhub
+SUMMARY:O Q4 Earnings
+UID:v1-6dd88921e825f2b58e1e47a3158e94e86e218e91a6231971695bd8dc4ab5b152@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: INTU\nFiscal Qtr: 2\nEstimate EPS: 3.7851\nEst. Revenue: 5.08 B\nSource: Finnhub
+SUMMARY:INTU Q2 Earnings
+UID:v1-3bd34110b4ad41e1e39df9391e4bda72199e60f1c07f55b06b4754f38ddf955e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: CSCO\nFiscal Qtr: 2\nEstimate EPS: 1.3727\nEst. Revenue: 18.51 B\nSource: Finnhub
+SUMMARY:CSCO Q2 Earnings
+UID:v1-92a6f4b50f4bb27b0b26aa3a7a29db6c3f2198f718c7aceab9f074f3801a57c8@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: EXC\nFiscal Qtr: 4\nEstimate EPS: 0.71\nEst. Revenue: 5.52 B\nSource: Finnhub
+SUMMARY:EXC Q4 Earnings
+UID:v1-421216efbbd051d55fb42d778f43d0fd22b6476f9cc63408cc7f4cb95125614e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: HRL\nFiscal Qtr: 1\nEstimate EPS: 0.3784\nEst. Revenue: 3.06 B\nSource: Finnhub
+SUMMARY:HRL Q1 Earnings
+UID:v1-97dc5e3efb6d24563bd6338f852b89fa5561eadfc2fa4c8f4ad0bab37608f938@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: NI\nFiscal Qtr: 4\nEstimate EPS: 0.6026\nEst. Revenue: 2.03 B\nSource: Finnhub
+SUMMARY:NI Q4 Earnings
+UID:v1-fe04d90e4211e9eb867065383a0eded6ea7b9b247fa05ff3104efd053464ff8d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: Q\nFiscal Qtr: 4\nEstimate EPS: 1.309\nEst. Revenue: 1.52 B\nSource: Finnhub
+SUMMARY:Q Q4 Earnings
+UID:v1-bdb9b35d8b1c6eca0e42d7f964e206b200a6e98019b2835b98bc9ef92acdfb84@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: WDAY\nFiscal Qtr: 4\nEstimate EPS: 3.0054\nEst. Revenue: 2.83 B\nSource: Finnhub
+SUMMARY:WDAY Q4 Earnings
+UID:v1-98147d64eedd826a3ea3f799df75229dfcf64532747a87f0543934507eb5e9ff@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: AMAT\nFiscal Qtr: 1\nEstimate EPS: 4.4608\nEst. Revenue: 11.37 B\nSource: Finnhub
+SUMMARY:AMAT Q1 Earnings
+UID:v1-c1816f1be1443d64649b455a17548a4bcd7e4bd5649ba5734f6cb1b9aa4f77f0@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: ED\nFiscal Qtr: 4\nEstimate EPS: 1.0981\nEst. Revenue: 4.24 B\nSource: Finnhub
+SUMMARY:ED Q4 Earnings
+UID:v1-263ffbdfcf95d7147796676b218b4df58611f6806245f112f1387f99761ebe2e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: GPN\nFiscal Qtr: 4\nEstimate EPS: 3.7084\nEst. Revenue: 3.19 B\nSource: Finnhub
+SUMMARY:GPN Q4 Earnings
+UID:v1-6045f7983029f139067f850d5a4b882d8016dca8db5aecc062f3bd2670eccf9f@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: CRH\nFiscal Qtr: 4\nEstimate EPS: 1.4434\nEst. Revenue: 9.95 B\nSource: Finnhub
+SUMMARY:CRH Q4 Earnings
+UID:v1-a2a69f4809302238eb05e2ab53b6a08011647341614dd2ba9ac26b0d0f4c7e80@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: AKAM\nFiscal Qtr: 4\nEstimate EPS: 1.6487\nEst. Revenue: 1.18 B\nSource: Finnhub
+SUMMARY:AKAM Q4 Earnings
+UID:v1-0e6aa11204ab3bfccb5ef0bf4145626e1993ee20f1b6e1e0db8d0ae1014488e4@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: HUM\nFiscal Qtr: 4\nEstimate EPS: -7.6487\nEst. Revenue: 42.00 B\nSource: Finnhub
+SUMMARY:HUM Q4 Earnings
+UID:v1-35259de9c22d9f88b360b3614677812400fc100b84107be83d9ede6fff2bb9a3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: KVUE\nFiscal Qtr: 4\nEstimate EPS: 0.2702\nEst. Revenue: 3.96 B\nSource: Finnhub
+SUMMARY:KVUE Q4 Earnings
+UID:v1-451c9e20a862f3932288adba54d13d0986ef5c9f8fcb341943d4117c0aca855f@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: BKNG\nFiscal Qtr: 4\nEstimate EPS: 2.2196\nEst. Revenue: 6.61 B\nSource: Finnhub
+SUMMARY:BKNG Q4 Earnings
+UID:v1-e7669cb3f6cd8c9f1228261ab057acb510dd793490bbd26e6399ec62bb7c4115@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: CDNS\nFiscal Qtr: 4\nEstimate EPS: 2.2769\nEst. Revenue: 1.75 B\nSource: Finnhub
+SUMMARY:CDNS Q4 Earnings
+UID:v1-c84dcb660fd2333a379767cca01eb7896d07bc858441957d0629f09189fbc19c@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: WAB\nFiscal Qtr: 4\nEstimate EPS: 2.7041\nEst. Revenue: 3.26 B\nSource: Finnhub
+SUMMARY:WAB Q4 Earnings
+UID:v1-29ff5d915b3ec43fc178df507d34ec9103b48e1c4df03d7eb60bb4561c64e4b4@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: HPQ\nFiscal Qtr: 1\nEstimate EPS: 0.7168\nEst. Revenue: 14.89 B\nSource: Finnhub
+SUMMARY:HPQ Q1 Earnings
+UID:v1-f9950426a089689869294923cbc83c9f85eb899190577920f22d4bacfad52650@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: PWR\nFiscal Qtr: 4\nEstimate EPS: 5.2352\nEst. Revenue: 12.18 B\nSource: Finnhub
+SUMMARY:PWR Q4 Earnings
+UID:v1-280bbaa99185531b7d1da8f2bffed9f89b2e6ede11c56f068275dd438bdeb4e3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: WBD\nFiscal Qtr: 4\nEstimate EPS: -0.0442\nEst. Revenue: 9.96 B\nSource: Finnhub
+SUMMARY:WBD Q4 Earnings
+UID:v1-376d853a74a78a6dfa7458850467463efc0bf68a09e1d9ba302f39c1e58105fb@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: ERIE\nFiscal Qtr: 4\nEstimate EPS: 2.8815\nEst. Revenue: 978.2 M\nSource: Finnhub
+SUMMARY:ERIE Q4 Earnings
+UID:v1-0f38ed6c43c74b6c404b21ee2a44fdd50481fae4c392202e2ee3d58c13939ee3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: WYNN\nFiscal Qtr: 4\nEstimate EPS: 1.0175\nEst. Revenue: 1.89 B\nSource: Finnhub
+SUMMARY:WYNN Q4 Earnings
+UID:v1-5d42367566f0bd118c02a6ad1b2a84b08cb73ee302ad15029dceaa2e4cfdf69c@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: KHC\nFiscal Qtr: 4\nEstimate EPS: 0.4401\nEst. Revenue: 6.32 B\nSource: Finnhub
+SUMMARY:KHC Q4 Earnings
+UID:v1-0d3e337a46fdc2ee2956835b978897c58efb39ae9fda16d0366ae98b1d23d6b1@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: GNRC\nFiscal Qtr: 4\nEstimate EPS: 2.6465\nEst. Revenue: 1.43 B\nSource: Finnhub
+SUMMARY:GNRC Q4 Earnings
+UID:v1-50ab17ad903b088d6b641c3765d7e56371534b133dad145a7dff7410b1e40d9d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: SOLV\nFiscal Qtr: 4\nEstimate EPS: 1.81\nEst. Revenue: 2.13 B\nSource: Finnhub
+SUMMARY:SOLV Q4 Earnings
+UID:v1-d005f476cc4c76a379f715f3986487ce50245d363010b3996864fa8edcad393e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: PCG\nFiscal Qtr: 4\nEstimate EPS: 0.4054\nEst. Revenue: 6.98 B\nSource: Finnhub
+SUMMARY:PCG Q4 Earnings
+UID:v1-c0a76c2786760654072074ebbdef7cb6723ac5d28c4d726096c576c3529816c3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: AEE\nFiscal Qtr: 4\nEstimate EPS: 0.6742\nEst. Revenue: 2.01 B\nSource: Finnhub
+SUMMARY:AEE Q4 Earnings
+UID:v1-0d47d78559673e0a8b3ae673756e59a54e12b70221378a133b307b23524c9115@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: TYL\nFiscal Qtr: 4\nEstimate EPS: 3.4337\nEst. Revenue: 651.5 M\nSource: Finnhub
+SUMMARY:TYL Q4 Earnings
+UID:v1-437aebb20d9686ed1a560dbc8d13de4356ee78ff2bf11f45b99c1c21ff271807@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: AWK\nFiscal Qtr: 4\nEstimate EPS: 1.5074\nEst. Revenue: 1.37 B\nSource: Finnhub
+SUMMARY:AWK Q4 Earnings
+UID:v1-01661d8471aeaca0db159a4743094c4a97fd70f8f3933ee1d16ce67bb2b1264f@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: MSI\nFiscal Qtr: 4\nEstimate EPS: 5.5521\nEst. Revenue: 3.87 B\nSource: Finnhub
+SUMMARY:MSI Q4 Earnings
+UID:v1-4c55fac8426da2657aa7ec0fba50f6e561b92be60aa53cd2c3e0f8bbc22c755d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: MLM\nFiscal Qtr: 4\nEstimate EPS: 3.173\nEst. Revenue: 2.09 B\nSource: Finnhub
+SUMMARY:MLM Q4 Earnings
+UID:v1-8318046a71213d627660bed61cb887e5151d18ffec84ff70c98982ff500d69d2@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: OKE\nFiscal Qtr: 4\nEstimate EPS: 1.5007\nEst. Revenue: 10.58 B\nSource: Finnhub
+SUMMARY:OKE Q4 Earnings
+UID:v1-af05807897b8ae9332de25ad59221440260805c418f67bb5fec1baffff7d355a@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: BLDR\nFiscal Qtr: 4\nEstimate EPS: 0.5443\nEst. Revenue: 3.44 B\nSource: Finnhub
+SUMMARY:BLDR Q4 Earnings
+UID:v1-f65cad2104173ecf37cb8a98938b37549d984975d8381c307b3e36f456edf241@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: DE\nFiscal Qtr: 1\nEstimate EPS: 3.3738\nEst. Revenue: 8.77 B\nSource: Finnhub
+SUMMARY:DE Q1 Earnings
+UID:v1-9be286282e10519f0d9f514a77ec69968c63c973ac60e49a20c4564899f72c75@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: PNW\nFiscal Qtr: 4\nEstimate EPS: -0.0826\nEst. Revenue: 1.18 B\nSource: Finnhub
+SUMMARY:PNW Q4 Earnings
+UID:v1-478873ea5a0d53e1c889fa52391c39ca547f50b061e373c7d25237195d3ff8f2@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: UHS\nFiscal Qtr: 4\nEstimate EPS: 5.6693\nEst. Revenue: 4.79 B\nSource: Finnhub
+SUMMARY:UHS Q4 Earnings
+UID:v1-fd73be333d8c076c0194160707dd4a48fac63bf8473d70f6fdf5a786a0283b19@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: LDOS\nFiscal Qtr: 4\nEstimate EPS: 2.7242\nEst. Revenue: 4.58 B\nSource: Finnhub
+SUMMARY:LDOS Q4 Earnings
+UID:v1-ed26771eb15507467b5fecacaab80e301841cd59f18df2aa16116b228b75638b@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: AMT\nFiscal Qtr: 4\nEstimate EPS: 1.647\nEst. Revenue: 2.80 B\nSource: Finnhub
+SUMMARY:AMT Q4 Earnings
+UID:v1-1dfc30587c535e95f3349cce1c29c9e4002ca3d6a8b27eb7b678580cec85e1fe@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: TMUS\nFiscal Qtr: 4\nEstimate EPS: 2.7887\nEst. Revenue: 25.96 B\nSource: Finnhub
+SUMMARY:TMUS Q4 Earnings
+UID:v1-921fc137bca89067e6dae54450213c8d1369e9b289829c720bc3c6ffd748dc44@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: VST\nFiscal Qtr: 4\nEstimate EPS: 1.9859\nEst. Revenue: 5.99 B\nSource: Finnhub
+SUMMARY:VST Q4 Earnings
+UID:v1-f1c0960fd8af5618b0a06777dac32f14d813d92090a8f4741b1acc5944c092da@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: DVN\nFiscal Qtr: 4\nEstimate EPS: 1.5364\nEst. Revenue: 7.22 B\nSource: Finnhub
+SUMMARY:DVN Q4 Earnings
+UID:v1-c8f83c23e97f8a7d1756ea398aab1c2fd78909c23e3bb0005c1e3e26b93b1ca3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: VICI\nFiscal Qtr: 4\nEstimate EPS: 0.7322\nEst. Revenue: 1.09 B\nSource: Finnhub
+SUMMARY:VICI Q4 Earnings
+UID:v1-5993af5755ba642aa246a29a6f2458b344f06ec6dd1ee7547095f4c3b5d741e6@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: EXR\nFiscal Qtr: 4\nEstimate EPS: 1.1783\nEst. Revenue: 829.7 M\nSource: Finnhub
+SUMMARY:EXR Q4 Earnings
+UID:v1-13c272de6ff1eb56db7f21eccc6478d65b9805170e24ef75064882dbdecb610e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: EQIX\nFiscal Qtr: 4\nEstimate EPS: 4.1355\nEst. Revenue: 2.74 B\nSource: Finnhub
+SUMMARY:EQIX Q4 Earnings
+UID:v1-c9dbbdc6e8eed81638aa12d026ab7bfb77ad62c4a131be4a8087ce087707e958@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: SNPS\nFiscal Qtr: 1\nEstimate EPS: 4.5692\nEst. Revenue: 2.73 B\nSource: Finnhub
+SUMMARY:SNPS Q1 Earnings
+UID:v1-8cdca59877b6d178a7e4db94e2dff7fc99d656546daf97939e130d72bcc0f773@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: RSG\nFiscal Qtr: 4\nEstimate EPS: 1.7898\nEst. Revenue: 4.42 B\nSource: Finnhub
+SUMMARY:RSG Q4 Earnings
+UID:v1-f71a1ad4376619f973781a309d80b5cdcc3e6dfa14b379ae78666a0da9145529@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: DXCM\nFiscal Qtr: 4\nEstimate EPS: 0.7338\nEst. Revenue: 1.41 B\nSource: Finnhub
+SUMMARY:DXCM Q4 Earnings
+UID:v1-aaa2b1a5aceebdcbe55c98b0e4ac88fe860998889c4549f3ec7f4eb54a1362bb@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: INVH\nFiscal Qtr: 4\nEstimate EPS: 0.1975\nEst. Revenue: 717.8 M\nSource: Finnhub
+SUMMARY:INVH Q4 Earnings
+UID:v1-0e222cb23684ecfe7a099e9056602e8989801bb7f5dd9b473230c1184d565a21@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: PODD\nFiscal Qtr: 4\nEstimate EPS: 1.8076\nEst. Revenue: 919.4 M\nSource: Finnhub
+SUMMARY:PODD Q4 Earnings
+UID:v1-891b94f3dcade087ac1170b16bc03f347ef49116ebd8cd2ec4f494df25cd56f3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: HWM\nFiscal Qtr: 4\nEstimate EPS: 1.5139\nEst. Revenue: 2.78 B\nSource: Finnhub
+SUMMARY:HWM Q4 Earnings
+UID:v1-9fd534bf02f442fdb0a38d65b7a65289055357c5c444dd11d5248bf95f5a8890@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: CVNA\nFiscal Qtr: 4\nEstimate EPS: 0.4111\nEst. Revenue: 8.03 B\nSource: Finnhub
+SUMMARY:CVNA Q4 Earnings
+UID:v1-ae26469eca5eff085cf2905b721867f6480e088681d52976fa1609b6657c805d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: GDDY\nFiscal Qtr: 4\nEstimate EPS: 2.0462\nEst. Revenue: 1.37 B\nSource: Finnhub
+SUMMARY:GDDY Q4 Earnings
+UID:v1-54d2b4867f33750c7a3abf23d19b767f750e94a9031059e5c66b745937c6a7f6@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: ADI\nFiscal Qtr: 1\nEstimate EPS: 3.8966\nEst. Revenue: 4.40 B\nSource: Finnhub
+SUMMARY:ADI Q1 Earnings
+UID:v1-7c852dc5ab0022baa90483b0d43bc14bd409488b795913cb5c1ca55eaceebcd6@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: CNP\nFiscal Qtr: 4\nEstimate EPS: 0.4355\nEst. Revenue: 2.57 B\nSource: Finnhub
+SUMMARY:CNP Q4 Earnings
+UID:v1-b87a061121362c29a75e7d0977c27a84a5e9f026e7f1b19b494703f0285e92f9@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: NDSN\nFiscal Qtr: 1\nEstimate EPS: 2.6544\nEst. Revenue: 721.9 M\nSource: Finnhub
+SUMMARY:NDSN Q1 Earnings
+UID:v1-f1749ef066be204471c1273e98d2147dcd6c698985236819322897e05a5a4224@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: D\nFiscal Qtr: 4\nEstimate EPS: 0.6278\nEst. Revenue: 4.37 B\nSource: Finnhub
+SUMMARY:D Q4 Earnings
+UID:v1-2a06211591001ef8bdfcea7eb84395098ddfa7abfacf0602dc54f298f7188ce9@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: MOS\nFiscal Qtr: 4\nEstimate EPS: -0.1836\nEst. Revenue: 3.35 B\nSource: Finnhub
+SUMMARY:MOS Q4 Earnings
+UID:v1-c794722810235bcc53ab6b947803d6de5ce5f2f42937c79db3ab0c2eefd7917d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: HLT\nFiscal Qtr: 4\nEstimate EPS: 2.4086\nEst. Revenue: 3.37 B\nSource: Finnhub
+SUMMARY:HLT Q4 Earnings
+UID:v1-4c5cf95d3ee502d591af7c4685569e7a70aea881cc5ab59ecc9117ae7c5f99b7@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: XYZ\nFiscal Qtr: 4\nEstimate EPS: 1.1617\nEst. Revenue: 6.86 B\nSource: Finnhub
+SUMMARY:XYZ Q4 Earnings
+UID:v1-9ae32c80f53a2228b45c77c967c43451e8b35cb3f9096a2658bdc1a5e06189a0@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: MNST\nFiscal Qtr: 4\nEstimate EPS: 0.2771\nEst. Revenue: 2.46 B\nSource: Finnhub
+SUMMARY:MNST Q4 Earnings
+UID:v1-c43f7b02d45065d2a8736278deab84b50258683740ff2a73026e93ea8edaa975@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: ANET\nFiscal Qtr: 4\nEstimate EPS: 1.315\nEst. Revenue: 4.05 B\nSource: Finnhub
+SUMMARY:ANET Q4 Earnings
+UID:v1-dfbc1fad858099b464d8ecf2a7acda400cb343537f296f5745cca6d442d61192@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: EQT\nFiscal Qtr: 4\nEstimate EPS: 0.6585\nEst. Revenue: 2.10 B\nSource: Finnhub
+SUMMARY:EQT Q4 Earnings
+UID:v1-39c5e41d601a5f57d2e63f6dda5bb3c8d54e2371963b000e0b1150e153b3849e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: IFF\nFiscal Qtr: 4\nEstimate EPS: 0.6367\nEst. Revenue: 1.84 B\nSource: Finnhub
+SUMMARY:IFF Q4 Earnings
+UID:v1-1a009aa3ec58fe34c124f06684071377e27185e797b894aa32e64508dc441b68@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: ETR\nFiscal Qtr: 4\nEstimate EPS: 0.6988\nEst. Revenue: 3.32 B\nSource: Finnhub
+SUMMARY:ETR Q4 Earnings
+UID:v1-703e5225611ba711147316723d01a45d917691c507233f4751fa4f82d2511a56@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: IRM\nFiscal Qtr: 4\nEstimate EPS: 0.6982\nEst. Revenue: 2.06 B\nSource: Finnhub
+SUMMARY:IRM Q4 Earnings
+UID:v1-b5f49ae179f796d500f1a13249632f0f5ec1f50b1b296277ed812342a30818fb@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: ALLE\nFiscal Qtr: 4\nEstimate EPS: 2.3584\nEst. Revenue: 1.14 B\nSource: Finnhub
+SUMMARY:ALLE Q4 Earnings
+UID:v1-124afcc21ed072cfebc81a386794057b4a423b8c7baa321de01bdf8d53ffc07f@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: EXPD\nFiscal Qtr: 4\nEstimate EPS: 2.7799\nEst. Revenue: 4.10 B\nSource: Finnhub
+SUMMARY:EXPD Q4 Earnings
+UID:v1-d98f74e062bf17a5646db8826ef834a354f8352b3aee7f691c7b459dfc5c6d2e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: TTD\nFiscal Qtr: 4\nEstimate EPS: 0.4079\nEst. Revenue: 760.3 M\nSource: Finnhub
+SUMMARY:TTD Q4 Earnings
+UID:v1-9121450ab97902ce8da6ed72da2e2f611b30a3eaef89288cb27560de3afb48f3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: OXY\nFiscal Qtr: 4\nEstimate EPS: 2.0076\nEst. Revenue: 7.48 B\nSource: Finnhub
+SUMMARY:OXY Q4 Earnings
+UID:v1-389a9f3b442e1550b08cf407d38ec6ff25a5c80c86f115a6d4ab93e74a525f9c@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: NEM\nFiscal Qtr: 4\nEstimate EPS: 2.0358\nEst. Revenue: 6.44 B\nSource: Finnhub
+SUMMARY:NEM Q4 Earnings
+UID:v1-d2325eb22feb44a511f8b72423a1a484c7e19bc722943f466237e3c7bc12360c@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: CRL\nFiscal Qtr: 4\nEstimate EPS: 3.3506\nEst. Revenue: 978.7 M\nSource: Finnhub
+SUMMARY:CRL Q4 Earnings
+UID:v1-42a82add3391b5527f3420e5e821122a272a37907554f95e3f2cd39eff2f188e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: GRMN\nFiscal Qtr: 4\nEstimate EPS: 3.2011\nEst. Revenue: 2.43 B\nSource: Finnhub
+SUMMARY:GRMN Q4 Earnings
+UID:v1-a27f69b83a9bb96596eead49333ac71717c85c0c8c4aeff306225e85234b28b3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: CSGP\nFiscal Qtr: 4\nEstimate EPS: 0.4907\nEst. Revenue: 1.01 B\nSource: Finnhub
+SUMMARY:CSGP Q4 Earnings
+UID:v1-14178c303c198fe89d42b0d58e29c7e3cd99e29e4cbf4dc6e60af3f7f3937452@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: SO\nFiscal Qtr: 4\nEstimate EPS: 0.4001\nEst. Revenue: 7.13 B\nSource: Finnhub
+SUMMARY:SO Q4 Earnings
+UID:v1-bbccba85fa8b8c317fa2f23c5724a734609291b2aa8c5e14dfab66cffbbb515c@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: EBAY\nFiscal Qtr: 4\nEstimate EPS: 1.544\nEst. Revenue: 3.29 B\nSource: Finnhub
+SUMMARY:EBAY Q4 Earnings
+UID:v1-d343e07d2f6eb09465a5324059ec0c234b20d7c1355a9846a757db7f60e5655e@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: KDP\nFiscal Qtr: 4\nEstimate EPS: 0.673\nEst. Revenue: 7.71 B\nSource: Finnhub
+SUMMARY:KDP Q4 Earnings
+UID:v1-bbfe6bb8f2b3f68ad7c724ef1d0cae084a7797583814e9d5d2f19ab03e92ff7d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: DPZ\nFiscal Qtr: 4\nEstimate EPS: 6.4401\nEst. Revenue: 1.68 B\nSource: Finnhub
+SUMMARY:DPZ Q4 Earnings
+UID:v1-ea197c23f61cfd653668d2bf4a740f6902673075013a5907e34f655a49bf058b@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: TPL\nFiscal Qtr: 4\nEstimate EPS: 2.5654\nEst. Revenue: 278.3 M\nSource: Finnhub
+SUMMARY:TPL Q4 Earnings
+UID:v1-507c376ab4f92cfa3d880154981ad094e0d9bf71c99cd5b5e62753a4bd8ab63d@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: ALB\nFiscal Qtr: 4\nEstimate EPS: 1.3148\nEst. Revenue: 1.39 B\nSource: Finnhub
+SUMMARY:ALB Q4 Earnings
+UID:v1-edfba95ae96dfecb160acfd709e1902756187dba53faf76803cb6ee02a6feaa7@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: VRSK\nFiscal Qtr: 4\nEstimate EPS: 1.9671\nEst. Revenue: 835.3 M\nSource: Finnhub
+SUMMARY:VRSK Q4 Earnings
+UID:v1-f0074bd6b506bccef0e6088f96857710f7127397cf43fa09635a03bad1ec7ddc@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Ticker: FERG\nFiscal Qtr: 4\nEstimate EPS: 2.4902\nEst. Revenue: 8.47 B\nSource: Finnhub
+SUMMARY:FERG Q4 Earnings
+UID:v1-a19bd8d01daf95e57094fc920e4dd3b429f6b726e8bed68bd7f55c860eeefe6b@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: SJM\nFiscal Qtr: 3\nEstimate EPS: 2.568\nEst. Revenue: 2.28 B\nSource: Finnhub
+SUMMARY:SJM Q3 Earnings
+UID:v1-9b26de705544ae72fdc62c5d56725c0e918c00910318b9dde54a05230786facb@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: ADSK\nFiscal Qtr: 4\nEstimate EPS: 3.2638\nEst. Revenue: 2.25 B\nSource: Finnhub
+SUMMARY:ADSK Q4 Earnings
+UID:v1-552c6839a74cc5a07ae6494075b7436a384144702cdfc1262f3c71a21d3197e3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: LH\nFiscal Qtr: 4\nEstimate EPS: 4.646\nEst. Revenue: 3.86 B\nSource: Finnhub
+SUMMARY:LH Q4 Earnings
+UID:v1-7c4a3e965a53d7fef4c234c123c6797f1b36b56365af5f1d648ec1cb249c9146@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: SBAC\nFiscal Qtr: 4\nEstimate EPS: 2.0732\nEst. Revenue: 728.8 M\nSource: Finnhub
+SUMMARY:SBAC Q4 Earnings
+UID:v1-caa08ef99087ef979900117ec311ab68e23e734175968d7a7295fe898f8bdb53@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: KIM\nFiscal Qtr: 4\nEstimate EPS: 0.2087\nEst. Revenue: 559.2 M\nSource: Finnhub
+SUMMARY:KIM Q4 Earnings
+UID:v1-78c2410f02fe1a70b36b761eeb9ee2247cf311d4f861efc26cbe6f8a9f9dd32c@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+DESCRIPTION:Ticker: PEG\nFiscal Qtr: 4\nEstimate EPS: 0.8081\nEst. Revenue: 3.43 B\nSource: Finnhub
+SUMMARY:PEG Q4 Earnings
+UID:v1-1b67ad2f2fc88ef75394cef2a21f123afe5656980ac0da941bc176576a0166d0@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DESCRIPTION:Ticker: TKO\nFiscal Qtr: 4\nEstimate EPS: 1.2012\nEst. Revenue: 1.33 B\nSource: Finnhub
+SUMMARY:TKO Q4 Earnings
+UID:v1-0f60addf3c5ffcb90a971ed916ce0a1ed94cf7193a004ecc577f24e31176ba15@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: LYV\nFiscal Qtr: 4\nEstimate EPS: -1.3665\nEst. Revenue: 7.00 B\nSource: Finnhub
+SUMMARY:LYV Q4 Earnings
+UID:v1-ae08926f53f790733d29c63da3f3c5b969ffa5fce47a8a380468ae7370efb441@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: MCD\nFiscal Qtr: 4\nEstimate EPS: 3.2059\nEst. Revenue: 7.15 B\nSource: Finnhub
+SUMMARY:MCD Q4 Earnings
+UID:v1-8f350519e4d936eae12645536f3830464b4d055f6918743b61455f1d1a7cc113@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+DESCRIPTION:Ticker: CF\nFiscal Qtr: 4\nEstimate EPS: 3.4338\nEst. Revenue: 2.02 B\nSource: Finnhub
+SUMMARY:CF Q4 Earnings
+UID:v1-5acc5855831987a02474073f1921cd3a544d25cbc0c33e888c3e3b5aa89553a3@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: GPC\nFiscal Qtr: 4\nEstimate EPS: 1.6286\nEst. Revenue: 6.28 B\nSource: Finnhub
+SUMMARY:GPC Q4 Earnings
+UID:v1-64b7e6cb050b41eb79e6d03a76984189a807eac77e2d4074ac148f9022afa365@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: ROL\nFiscal Qtr: 4\nEstimate EPS: 0.2558\nEst. Revenue: 978.5 M\nSource: Finnhub
+SUMMARY:ROL Q4 Earnings
+UID:v1-43494301a5e4c3cce8f27e685f1ee5a174c51cc8eb1816b2ce827b3331364b8f@amp.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+DESCRIPTION:Ticker: EVRG\nFiscal Qtr: 4\nEstimate EPS: 0.355\nEst. Revenue: 1.40 B\nSource: Finnhub
+SUMMARY:EVRG Q4 Earnings
+UID:v1-e5ddf1dce67e8ef90ff2c7853c147db5200da48714287d596568dfd4bd4cc8c2@amp.calendar.earnings
+END:VEVENT
+END:VCALENDAR
